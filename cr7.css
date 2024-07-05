@@ -1,0 +1,245 @@
+nav{
+    background-color:black;
+    display: flex;
+    justify-content: end;
+    
+}
+
+    
+ #nn{
+    position: sticky;
+    top: 0;
+    
+
+ }   
+ 
+
+    
+
+nav ul li a{
+    display: flex;
+    justify-content:end;
+    text-decoration: none;
+    display: flex;
+    margin: 10px;
+}
+nav ul{
+    display: flex;
+    
+}
+nav ul li a{
+    color:white;
+
+}
+.f1{
+    height: 50px;
+    display: flex;
+    justify-content: left;
+}
+nav ul li a:hover{
+    color: white;
+    scale: 1.10;
+    text-shadow: 2px 3px 4px white;
+}
+.img1{
+    height: 100px;
+    
+    
+}
+.row{
+    background-color:black;
+    display:flex;
+    justify-content:center;
+    height:1000px;
+
+}
+
+.text{
+    color: black;
+}
+ .vid1{
+    width:250px;
+    height:1000px ; 
+    
+}
+.text{
+    position: absolute;
+    
+}
+h1{
+    color: red;
+}
+h2{
+    position: absolute;
+    top: 30%;
+    margin-top: 30%;
+    font-style:normal;
+    
+    
+    
+
+    
+
+
+
+}
+h1{
+    position: absolute;
+
+    
+    
+   
+}
+.col{
+    margin: 10px;
+
+    
+}
+.vid1:hover{
+    scale: 1.20;
+    
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.hi{
+    width: 300px;
+    margin-top: 90%;
+}
+.hi:hover{
+    scale: 1.20;
+}
+.rr{
+    color:white;
+    margin-top: 50%;
+    background-color:black;
+    width: 100%;
+    text-align:left;
+    margin-left: 5%;
+    font-style: normal;
+   
+
+}
+.raw{
+    background-color: black;
+    height: 450px;
+    display: flex;
+    
+}
+.por{
+    width: 100%;
+    height: 400px;
+    
+}
+.sh{
+    color:white;
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 2%;
+}
+.gol{
+    margin: 10px;
+}
+.por:hover {
+    scale: 1.23;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:red;
+    
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+ .oops{
+    background-color: black;
+    height: 1000px;
+ }
+ .zz{
+    height: 400px;
+    
+ }
+ .tom{
+    background-color: black;
+    display: flex;
+    
+
+ }
+ .kk{
+    color: white;
+    font-size: 
+    
+    
+ }
+ .nm{
+    height: 500px;
+    margin: 10px;
+    
+ }
+ .jj{
+    color:red;
+    
+
+ }
+ .iframe{
+    background-color: black;
+ }
+ 
+ h4{
+    background-color:black;
+    text-align:center;
+    margin: 0;
+    height: 40px;
+    color: white;
+    top: 5%;
+    font-style: normal;
+ }
+ .ach{
+    background-color: black;
+    height: 200px;
+    display: flex;
+ }
+ .ra{
+    height:200px;
+    margin: 10px;
+    width: ;
+ }
+ .pp{
+    background-color: black; 
+    height: 290px;
+
+ }
+ footer{
+    background-image: url('https://idm365.com/wp-content/uploads/2015/09/IDM365_MIM_banner_bg.jpg');
+    height: 300px;
+    border: 3px ridge red;
+ }
+ .ff{
+    display: flex;
+    justify-content: center;
+
+ }
+ .jio{
+    margin: 10px;
+ }
+ .nm:hover{
+    scale: 1.25;
+ }
+ 
+
+   
+ 
